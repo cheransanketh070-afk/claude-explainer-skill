@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: portfolio-showreel
+expected_outcome: |
+  Claude analyzes several repos in one call, picks a few flagship tools, builds a showreel storyboard (features grid for the rest, CTA to the profile), keeps it under about 90 seconds, and delivers the MP4 and storyboard.
