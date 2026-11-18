@@ -1,4 +1,0 @@
-schema_version: "1.1"
-name: repo-to-landscape-video
-expected_outcome: |
-  Claude runs analyze_project.py on the repo, writes a storyboard using only real commands/flags from the repo, passes the layout audit, renders an MP4 plus captions and player.html, and presents them.
