@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: vertical-social-cut
+expected_outcome: |
+  Claude builds a 9:16 storyboard of about 30 seconds with a flow scene using a loop, checks the contact sheet, renders the video detached with polling, and presents the MP4.

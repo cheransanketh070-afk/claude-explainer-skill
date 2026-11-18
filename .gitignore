@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+explainer-output/
+explainer/
+project-facts.json
+site-capture/
+render.log
+voice/
+node_modules/
+*.egg-info/
